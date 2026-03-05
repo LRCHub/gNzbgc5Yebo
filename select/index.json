@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "国",
+  "base_artist": "崎山蒼志",
+  "createdAt": "2026-03-05T17:15:13.280955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "什么都不怕（国）",
+      "artist": "杨千嬅",
+      "has_synced": true,
+      "path": "select/01_什么都不怕(国)_杨千嬅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ying Xiong Mo (国)",
+      "artist": "Ronald Cheng",
+      "has_synced": true,
+      "path": "select/02_Ying_Xiong_Mo_(国)_Ronald_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "哎呀咿呀(国) (Album Version)",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/03_哎呀咿呀(国)_(Album_Version)_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bie Rang Wo Xin Teng (国)",
+      "artist": "Ronald Cheng",
+      "has_synced": true,
+      "path": "select/04_Bie_Rang_Wo_Xin_Teng_(国)_Ronald_Cheng.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恭喜发财 (2005年网路手机最佳拜年歌曲) (国)",
+      "artist": "Andy Lau 劉德華",
+      "has_synced": true,
+      "path": "select/05_恭喜发财_(2005年网路手机最佳拜年歌曲)_(国)_Andy_Lau_劉德華.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "原来我有爱 (2004 Baleno 广告主题曲) (国)",
+      "artist": "Andy Lau 劉德華",
+      "has_synced": true,
+      "path": "select/06_原来我有爱_(2004_Baleno_广告主题曲)_(国)_Andy_Lau_劉德華.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "下次不敢 (电影《童梦奇缘》主题曲) (国)",
+      "artist": "Andy Lau 劉德華",
+      "has_synced": true,
+      "path": "select/07_下次不敢_(电影《童梦奇缘》主题曲)_(国)_Andy_Lau_劉德華.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "大家一起喜羊羊 - 国",
+      "artist": "Bibi Zhou",
+      "has_synced": true,
+      "path": "select/08_大家一起喜羊羊_-_国_Bibi_Zhou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "7(国) (Album Version)",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/09_7(国)_(Album_Version)_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BABY SONG (国) (Album Version)",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/10_BABY_SONG_(国)_(Album_Version)_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "飘(国)",
+      "artist": "陈慧娴",
+      "has_synced": false,
+      "path": "select/11_飘(国)_陈慧娴.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "花好月圆夜(国)",
+      "artist": "杨千嬅",
+      "has_synced": true,
+      "path": "select/12_花好月圆夜(国)_杨千嬅.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "喂有人在吗(国)",
+      "artist": "陈慧琳",
+      "has_synced": false,
+      "path": "select/13_喂有人在吗(国)_陈慧琳.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "多爱你一天(国)",
+      "artist": "吕方",
+      "has_synced": true,
+      "path": "select/14_多爱你一天(国)_吕方.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "完全是你(国)",
+      "artist": "叶倩文",
+      "has_synced": true,
+      "path": "select/15_完全是你(国)_叶倩文.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夜半开门 (国)",
+      "artist": "何韵诗",
+      "has_synced": false,
+      "path": "select/16_夜半开门_(国)_何韵诗.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cryin'(国)",
+      "artist": "Beyond",
+      "has_synced": true,
+      "path": "select/17_Cryin'(国)_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "回到你身边(国)",
+      "artist": "刘德华",
+      "has_synced": false,
+      "path": "select/18_回到你身边(国)_刘德华.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "弯弯的月弯(国)",
+      "artist": "吕方",
+      "has_synced": false,
+      "path": "select/19_弯弯的月弯(国)_吕方.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "我的UFO(国)",
+      "artist": "Twins",
+      "has_synced": false,
+      "path": "select/20_我的UFO(国)_Twins.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "国",
+      "artist": "崎山蒼志",
+      "has_synced": false,
+      "path": "select/pl_01_国_崎山蒼志.txt"
+    }
+  ]
+}
